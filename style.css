@@ -563,10 +563,22 @@ input[type="checkbox"] {
     height: auto;
 }
 
-.corina img, .bikcraft img, .portfolio img {
+.corina img {
+    max-width: 300px;
+    max-height: 250px;
+}
+
+.bikcraft img {
     width: 300px;
     height: 250px;
+   
 }
+
+.portfolio img {
+    max-width: 300px;
+    max-height: 250px;
+}
+
 
 .legend {
     display: flex;
@@ -574,6 +586,7 @@ input[type="checkbox"] {
     padding: 10px 0;
     gap: 3px;
 }
+
 
 
 
