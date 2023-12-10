@@ -691,9 +691,7 @@ footer {
     margin-right: 40px;
 }
 
-.icon img {
-    
-}
+
 
 .icon p {
     font-family: 'Poppins';
@@ -829,6 +827,8 @@ footer {
         padding: 16px 0;
     }
 
+    
+
     .container_cards {
         height: auto;
     }
@@ -850,6 +850,10 @@ footer {
         font-size: 16px;
         line-height: 20px;
         text-align: justify;
+    }
+
+    .about_img {
+        justify-content: center;
     }
 
     .skills {
@@ -1016,8 +1020,7 @@ footer {
         
     }
     .footer_bar img {
-        width: 12px;
-        
+        width: 12px;    
     }
     .floating_menu{
         display: none;
@@ -1047,4 +1050,5 @@ footer {
 
         }
     }
+    
 }
