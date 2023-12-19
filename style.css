@@ -429,11 +429,11 @@ input[type="checkbox"] {
 }
 
 .item_cards p {
-    padding-top: 12px;
+    padding-top: 3px;
     font-family: 'Poppins';
     font-weight: 400;
     font-size: 10px;
-    line-height: 10px;
+    line-height: 12px;
     text-align: center;
     color: var(--text-color);
 }
